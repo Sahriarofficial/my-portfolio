@@ -18,7 +18,7 @@ body {
     padding: 15px 35px;
 }
 
-.section-tittle {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -39,7 +39,7 @@ nav {
     margin: 0 200px;
 }
 
-.nav-tittle {
+.nav-title {
     color: var(--Dark-01, #181818);
     font-size: 45px;
     font-weight: 800;
@@ -89,7 +89,7 @@ nav a {
     margin-bottom: 0;
 }
 
-.banner-tittle {
+.banner-title {
     font-size: 65px;
     font-weight: 700;
     margin-top: 5px;
@@ -146,7 +146,7 @@ main section {
 }
 
 /* Resume Section styles */
-.resume-column-tittle {
+.resume-column-title {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
@@ -157,7 +157,7 @@ main section {
     gap: 50px;
 }
 
-.resume-item-tittle {
+.resume-item-title {
     color: #474747;
     font-size: 25px;
     font-weight: 700;
@@ -181,4 +181,12 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
